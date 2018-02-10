@@ -1,0 +1,4 @@
+computer is an electronic device that can perform a variety of operations in accordance with a set of instruction called program
+we shall discuss the functioning of computer 
+but before we start discussing the fuctioning of a computer let us understand the way we function
+computer follows input process output cycle
