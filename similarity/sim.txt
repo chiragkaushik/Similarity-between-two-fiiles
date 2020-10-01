@@ -1,3 +1,5 @@
+// Convert this code into a parsable file
+
 import java.io.*;
 import java.util.*;
 public class Similarity
